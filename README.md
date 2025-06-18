@@ -13,5 +13,5 @@ TOUCHDESIGNER 手部感測
 觸摸特定區域，文字會漸漸浮現。分別是:
 吉星高照、一帆風順、平安、福。
 
-🖼️ 作品呈現 https://youtu.be/_SsqjSm3gQY
+🖼️ 作品呈現 [https://youtu.be/_SsqjSm3gQY](https://youtu.be/pfoBJNtUp8E)
 ![神秘音樂60](https://github.com/user-attachments/assets/13ec26ff-45fd-48bc-8903-92e6b6cf43d0)
